@@ -1,0 +1,15 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 1C11-AEF5
+
+ Directory of C:\Sode\pvcpr
+
+12-Feb-11  01:45 PM    <DIR>          .
+12-Feb-11  01:45 PM    <DIR>          ..
+12-Feb-11  10:41 AM               362 .gitignore
+12-Feb-11  11:47 AM    <DIR>          lib
+12-Feb-11  10:41 AM               142 README
+12-Feb-11  10:48 AM    <DIR>          src
+12-Feb-11  01:45 PM                 0 test.txt
+12-Feb-11  10:41 AM               227 TODO
+               4 File(s)            731 bytes
+               4 Dir(s)  363,215,114,240 bytes free
